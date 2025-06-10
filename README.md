@@ -93,12 +93,11 @@ pip install -r requirements.txt```
 
 
 ## 🤝 Contributors
-- Sarthak Shastri 
+- Param Madan 
 - Vedant Rishi Das
 - Akshay Chavan
 - Gaurav Tejwani
 - Ananya Asthana
 
----
-**Note:** This project was built for the CivicHack 2025 hackathon
+
 
